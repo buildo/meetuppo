@@ -1,0 +1,5 @@
+{
+    "meetupKey": "MEETUP_KEY",
+    "slackWebhook": "SLACK_WEBHOOK",
+    "schedule": "SCHEDULE"
+}
